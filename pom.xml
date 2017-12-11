@@ -8,6 +8,7 @@
     <artifactId>react</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
     <modules>
         <module>sycho</module>
         <module>myou</module>
@@ -23,6 +24,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <org.springboot.version>1.5.9.RELEASE</org.springboot.version>
+        <spring.boot.version>1.5.6.RELEASE</spring.boot.version>
     </properties>
 
     <dependencies>
