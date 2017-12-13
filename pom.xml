@@ -12,6 +12,7 @@
     <modules>
         <module>sycho</module>
         <module>myou</module>
+        <module>shkim</module>
     </modules>
 
     <parent>
