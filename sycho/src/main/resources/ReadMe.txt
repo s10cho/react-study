@@ -13,3 +13,4 @@ step 2: https://velopert.com/814
 3. npm install --save-dev babel-core babel-loader babel-preset-react babel-preset-es2015 webpack webpack-dev-server
 
 4. mkdir src src/components public && touch public/index.html src/components/App.js src/index.js webpack.config.js
+
