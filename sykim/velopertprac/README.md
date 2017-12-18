@@ -131,3 +131,18 @@ MyComponent.propTypes = {
 
 ## binding 관련 참고 url
 * https://medium.freecodecamp.org/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56
+
+
+***
+
+
+## React Component Key
+리액트 내부적으로 사용되는 유니크한 키 값.
+
+컴포넌트에 키를 부여하는것은 각 컴포넌트의 변경(수정/추가/삭제)을 확인하는데 도움을 주고, 
+이로인해 렌더링 할 때 변경된 부분만 DOM에 반영된다고 합니다.
+
+###### url
+* https://reactjs.org/docs/lists-and-keys.html#keys
+* https://blog.coderifleman.com/2015/06/27/learning-react-3     //"React.js에서 중요한 key" 부분 참고
+* https://blog.arkency.com/2014/10/react-dot-js-and-dynamic-children-why-the-keys-are-important/ 

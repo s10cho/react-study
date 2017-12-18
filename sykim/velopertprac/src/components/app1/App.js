@@ -1,8 +1,8 @@
 import React from 'react';
 import Header from './Header'
 import Content from './Content'
-import StateExample from "./state/StateExample";
-import RandomPrepareComponent from "./random/RandomPrepareComponent";
+import StateExample from "../state/StateExample";
+import RandomPrepareComponent from "../random/RandomPrepareComponent";
 
 
 //이 주석은 여기서
