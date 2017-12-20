@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import IterationApp from './components/iteration/IterationApp';
+import ContactApp from './components/contact/ContactApp';
 
 const rootElement = document.getElementById('root');
-ReactDOM.render(<IterationApp/>, rootElement);
+ReactDOM.render(<ContactApp/>, rootElement);
